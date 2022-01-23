@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi,I am Mohammad Danish 👋
 ![visitors](https://komarev.com/ghpvc/?username=okmd&label=Visitors)
 
 - 🔭 I’m currently working on Algorithmic Trading,  Machine learning.
